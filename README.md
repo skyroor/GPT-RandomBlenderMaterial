@@ -1,5 +1,5 @@
 # GPT-RandomBlenderMaterial
-A blender add-on for creating a simple random material and apply it to the selected object. Entirely created using OpenAI's ChatGPT
+A blender add-on for creating a simple random material and apply it to the selected object. Created entirely using OpenAI's ChatGPT
 
 Install add-on as normal (https://docs.blender.org/manual/en/latest/editors/preferences/addons.html#installing-add-ons)
 
